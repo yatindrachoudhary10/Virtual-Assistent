@@ -29,7 +29,8 @@ JavaScript (Vanilla)
 
 Web Speech API (SpeechRecognition and SpeechSynthesis)
 
-
+## 📊 Demo
+https://bespoke-dragon-c67640.netlify.app/
 
 ## 🔄 How to Run Locally
 
@@ -46,6 +47,8 @@ cd virtual-assistant
 ### 3.Open the index.html file in your browser.
 
 No server required! 🚀
+
+
 
 ## 📝 Sample Voice Commands
 
